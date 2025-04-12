@@ -1,7 +1,7 @@
 # Hi there, I'm Jagat Bhan Singh! 👋
 
-<img src="/jagat_pic_blue.jpg" alt="Profile Image" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-Hi there! 👋 I'm Jagat.
+<img src="/jagat_pic_blue.jpg" alt="Profile Image" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+</br>
 
 "Driven by a passion for solving complex problems through innovative technology, I thrive at the intersection of creativity and code. From designing scalable microservices to enhancing user experiences, I’m on a mission to deliver impactful software solutions that make a difference."
 
