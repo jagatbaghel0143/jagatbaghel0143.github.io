@@ -1,7 +1,7 @@
 # Hi there, I'm Jagat Bhan Singh! 👋
 
-<img src="[Optional: URL to a banner image or GIF]" alt="Banner Image" width="800"/> 
-Hi there! 👋 I'm Jagat. 
+<img src="/jagat_pic_blue.jpg" alt="Profile Image" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+Hi there! 👋 I'm Jagat.
 
 "Driven by a passion for solving complex problems through innovative technology, I thrive at the intersection of creativity and code. From designing scalable microservices to enhancing user experiences, I’m on a mission to deliver impactful software solutions that make a difference."
 
@@ -39,8 +39,8 @@ Here are some of the technologies I work with:
 
 ## 📫 How to Reach Me
 
-* **LinkedIn:** [\[Your LinkedIn Profile URL\]](https://www.linkedin.com/in/jagatbaghel0143/)
-* **Email:** jagatbaghel8979@gmai.com
+* **LinkedIn:** https://www.linkedin.com/in/jagatbaghel0143/
+* **Email:** jagatbaghel8979@gmail.com
 
 ---
 
